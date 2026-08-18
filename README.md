@@ -14,3 +14,24 @@
   <img width="49%" src="https://github-readme-stats-plum-psi.vercel.app/api?username=sofiane-cheriette&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=58A6FF&icon_color=2EA043&text_color=8B949E&bg_color=0D1117&card_width=500" alt="stats" />
   <img width="49%" src="https://github-readme-stats-plum-psi.vercel.app/api/top-langs/?username=sofiane-cheriette&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117&card_width=500" alt="top langs" />
 </div>
+
+<!-- PHASE 3 : LE SERPENT -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/output/github-snake.svg" />
+  <img alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/output/github-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+<!-- PHASE 4 : LES BADGES SOCIAUX -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/sofianecheriette/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
