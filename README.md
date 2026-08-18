@@ -1,3 +1,13 @@
+<!-- PHASE 1 : LA BANNIÈRE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/main/dark.svg">
+  <img alt="Sofiane Cheriette" src="https://raw.githubusercontent.com/sofiane-cheriette/sofiane-cheriette/main/dark.svg">
+</picture>
+
+<br/>
+
+<!-- PHASE 2 : LES STATISTIQUES -->
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=sofiane-cheriette&hide_border=true&background=0D1117&stroke=58A6FF&ring=2EA043&fire=2EA043&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&titleColor=58A6FF&card_width=1180" alt="streak" />
   <br/>
